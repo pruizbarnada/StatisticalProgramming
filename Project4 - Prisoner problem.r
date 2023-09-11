@@ -1,7 +1,4 @@
-# Corinne Phillips (s1852622), Caitlin Mitchell (s1837060), 
-# Pablo Ruiz Barnada (s1854579)
 
-# https://github.com/CorinnePhillips/Practical2
 
 # We worked together for a lot of the project, discussing how we wanted to go 
 # about each task. We worked together to write the strategy functions to be used
