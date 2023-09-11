@@ -1,7 +1,4 @@
-#Corinne Phillips (s1852622), Caitlin Mitchell (s1837060), Pablo Ruiz Barnada (s1854579)
-#We worked together for almost all the time. Outside of this, Pablo wrote the functions for generating the text fragments,
-#and Corinne and Caitlin did Q6 and Q7. We feel we all had equal contributions.
-
+# Text generating program based on the Bible
 
 setwd("~/Documents/MSc/Statistical Programming/Practical-1")    #user needs to change working directory
 a <- scan("pg10.txt",what="character",skip=104) ## skip contents
