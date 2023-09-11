@@ -1,10 +1,3 @@
-
-
-# We worked together for a lot of the project, discussing how we wanted to go 
-# about each task. We worked together to write the strategy functions to be used
-# within the Pone and Pall functions. Then Corinne and Pablo wrote Pone and Pall 
-# whilst Caitlin wrote dloop. We feel we all had equal contributions. 
-
 # In this file we have written code to simulate and analyse the prisoner problem.
 # Functions addresing three different strategies have been defined, and they 
 # have been used to construct more powerful functions that could simulate the
