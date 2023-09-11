@@ -1,9 +1,3 @@
-# Corinne Phillips (s1852622), Caitlin Mitchell (s1837060), Pablo Ruiz (s1854579)
-# https://github.com/CorinnePhillips/Practical-4
-# We worked on all of this project together to pool 
-# initial ideas and write our code. We feel we all 
-# contributed equally. 
-
 # This practical explores the creation of the function 'newt', which implements
 # Newton's method for minimization of functions. The main function 'newt' returns 
 # the value of the objective function and parameters at the minimum, the number
